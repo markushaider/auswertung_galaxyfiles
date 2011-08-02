@@ -1,0 +1,4 @@
+Matplotlib scheint einen Bug zu haben, beim Histogramm plotten wird 
+die Füllung nicht immer Richtig gemacht. Aktuelle Matplotlib Version
+löst das Problem vermutlich
+
